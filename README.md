@@ -6,6 +6,7 @@ Analysis Clustering Coefficient. Final Project in BigData Adv.
 http://snap.stanford.edu/data/soc-LiveJournal1.txt.gz  
 
     $ wget http://snap.stanford.edu/data/soc-LiveJournal1.txt.gz
+    $ gunzip soc-LiveJournal1.txt.gz
 
 ## Execute Env.
 - Google Cloud Platform - DataProc 
